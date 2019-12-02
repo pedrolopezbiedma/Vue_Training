@@ -3,7 +3,7 @@
 - In this repository, I've included all the apps that I've worked in while following several different vueJS courses:
     - firstApp: First app created, aims for a basic knowledge of the Vue programming language. The app displayed a list of posts
         with different colums. These posts are obtained using axios plugin.
-        Screenshot.
+        ![Screenshot](/Resources/Course_vueJS_firstApp.png)
 
     - vuetifyApp: Created while following a vuetify course to learn how to use this vue-UI framework. It displays a main page with
         a projects dashboard using some styling and filtering. These projects are loaded using Firebase & Firestore capabilities. 
