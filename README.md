@@ -50,11 +50,11 @@ Start the server
 
 ## Screenshots
 
-![Screenshot](/Resources/Courses_vueJS_firstApp.png)
-![Screenshot](/Resources/Courses_vueJS_vuetifyApp.png)
-![Screenshot](/Resources/Courses_vueJS_Smoothies.png)
-![Screenshot](/Resources/Courses_vueJS_Chat.png)
-![Screenshot](/Resources/Courses_vueJS_GeoNinjas.png)
+![Screenshot](/Screenshots/Courses_vueJS_firstApp.png)
+![Screenshot](/Screenshots/Courses_vueJS_vuetifyApp.png)
+![Screenshot](/Screenshots/Courses_vueJS_Smoothies.png)
+![Screenshot](/Screenshots/Courses_vueJS_Chat.png)
+![Screenshot](/Screenshots/Courses_vueJS_GeoNinjas.png)
 
 ## Authors
 
