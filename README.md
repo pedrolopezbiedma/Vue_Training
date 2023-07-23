@@ -27,7 +27,7 @@ Projects inside the repository are:
 Clone the project
 
 ```bash
-  git clone https://github.com/pedrolopezbiedma/Vue_Training
+  git clone https://github.com/pedrolopezbiedma/Vue_Training.git
 ```
 
 Go to the any of the repository projects
